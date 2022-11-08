@@ -15,7 +15,7 @@
   },
   "devDependencies": {
     "get-pixels": "^3.3.0",
-    "gulp": "^3.9.1",
+    "gulp": "^4.0.2",
     "gulp-jsonminify": "^1.1.0",
     "gulp-minify": "^2.1.0"
   }
